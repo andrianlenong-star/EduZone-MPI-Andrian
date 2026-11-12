@@ -1,0 +1,6 @@
+{
+  "name": "EduZone MPI Prompt",
+  "description": "Generator Media Pembelajaran Interaktif (MPI) AI oleh ANDRIAN, S.S.Gr. untuk Gemini Canvas, Canva, dan Web App Edukasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
